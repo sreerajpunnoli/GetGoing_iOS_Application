@@ -1,0 +1,2 @@
+# GetGoing_iOS_Application
+Get going is an iOS Application which uses google API to fetch the places. It has normal search as well as location search. There are multiple filters viz "radius", "is open now", and "rank by" available to customize the search results. Search results will display website, phone number and the location on the map which is directly connected to the default browser, call, and map application respectively.
